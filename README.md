@@ -38,6 +38,6 @@ I'm a Software Engineer passionate about Computer Vision and Financial Services
   
 #### Github Stats 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=herdeybayor&count_private=true&theme=dark)
+![Github stats](https://github-readme-stats.vercel.app/api?username=ELohimCode&count_private=true&theme=dark)
  
 </details>
