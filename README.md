@@ -32,7 +32,7 @@ I'm a Software Engineer passionate about Computer Vision and Financial Services
 
 #### Profile Visits 
 
-![visitors](https://komarev.com/ghpvc/?username=herdeybayor)
+![visitors](https://komarev.com/ghpvc/?username=ElohimCode)
 
 <details>
   
