@@ -30,9 +30,14 @@ I'm a Software Engineer passionate about Computer Vision and Financial Services
 ![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=) ![Next.js](https://img.shields.io/static/v1?style=for-the-badge&message=Next.js&color=000000&logo=Next.js&logoColor=FFFFFF&label=) ![Node.js](https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF&label=) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
  ![MongoDB](https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=47A248&logo=MongoDB&logoColor=FFFFFF&label=) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) 
 
+#### Profile Visits 
 
+![visitors](https://komarev.com/ghpvc/?username=herdeybayor)
+
+<details>
+  
 #### Github Stats 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=elohimcode&count_private=true&theme=dark)
+![Github stats](https://github-readme-stats.vercel.app/api?username=herdeybayor&count_private=true&theme=dark)
  
 </details>
