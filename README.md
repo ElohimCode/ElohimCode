@@ -12,7 +12,7 @@ Besides developing, I also run a [Youtube Channel](https://www.youtube.com/chann
  ![](https://img.shields.io/badge/FE-JavaScript-informational?style=flat&color=informational&logo=javascript)
 ![](https://img.shields.io/badge/FE-React-informational?style=flat&color=informational&logo=react)
 ![](https://img.shields.io/badge/FE-NextJs-informational?style=flat&color=informational&logo=next.js)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&color=informational)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&color=informational&logo=typescript)
 ![](https://img.shields.io/badge/Code-C%23-informational?style=flat&color=informational&logo=c-sharp)
 ![](https://img.shields.io/badge/Code-DotNet-informational?style=flat&color=informational&logo=.net)
 ![](https://img.shields.io/badge/Code-EcmaScript-informational?style=flat&color=informational)
