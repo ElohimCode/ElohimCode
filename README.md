@@ -7,7 +7,7 @@ Besides developing, I also run a [Youtube Channel](https://www.youtube.com/chann
 
 :mailbox: Looking for me!
 
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/johnvito21) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/johnbull-vitowanu/)
+[![Twitter](https://img.shields.io/badge/Twitter-informational?style=flat&color=black&logo=x)](https://x.com/johnvito21) [![Linkedin](https://img.shields.io/badge/LinkedIn-informational?style=flat&color=informational&logo=linkedin)](https://linkedin.com/in/johnbull-vitowanu/)
 ## Technologies and Stack ⚡️
  ![](https://img.shields.io/badge/FE-JavaScript-informational?style=flat&color=informational&logo=javascript)
 ![](https://img.shields.io/badge/FE-React-informational?style=flat&color=informational&logo=react)
