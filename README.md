@@ -34,6 +34,6 @@ Besides developing, I also run a [Youtube Channel](https://www.youtube.com/chann
 ![visitors](https://komarev.com/ghpvc/?username=ElohimCode)
   
 ## 📊 Statistics
-[![Johnbull's Github Stats](https://github-readme-stats.vercel.app/api?username=ELohimCode&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+![Johnbull's Github Stats](https://github-readme-stats.vercel.app/api?username=ElohimCode&theme=dark&show_icons=true)
 
  
