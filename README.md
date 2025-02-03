@@ -6,6 +6,7 @@ Software Engineer with over 6 years of experience in software engineering, I hav
 Besides developing, I also run a [Youtube Channel](https://www.youtube.com/channel/UC4jEkYXKmS7DQAHiKi71A4A).
 
 :mailbox: Looking for me!
+
 [![Twitter](https://img.shields.io/badge/Twitter-informational?style=flat&color=black&logo=x)](https://x.com/johnvito21) [![Linkedin](https://img.shields.io/badge/LinkedIn-informational?style=flat&color=informational&logo=linkedin)](https://linkedin.com/in/johnbull-vitowanu/)
 ## Technologies and Stack ⚡️
  ![](https://img.shields.io/badge/FE-JavaScript-informational?style=flat&color=informational&logo=javascript)
