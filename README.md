@@ -6,7 +6,6 @@ Software Engineer with over 6 years of experience in software engineering, I hav
 Besides developing, I also run a [Youtube Channel](https://www.youtube.com/channel/UC4jEkYXKmS7DQAHiKi71A4A).
 
 :mailbox: Looking for me!
-
 [![Twitter](https://img.shields.io/badge/Twitter-informational?style=flat&color=black&logo=x)](https://x.com/johnvito21) [![Linkedin](https://img.shields.io/badge/LinkedIn-informational?style=flat&color=informational&logo=linkedin)](https://linkedin.com/in/johnbull-vitowanu/)
 ## Technologies and Stack ⚡️
  ![](https://img.shields.io/badge/FE-JavaScript-informational?style=flat&color=informational&logo=javascript)
@@ -40,17 +39,3 @@ Besides developing, I also run a [Youtube Channel](https://www.youtube.com/chann
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ElohimCode&show_icons=true&locale=en&layout=compact" alt="ElohimCode" /></p>
 
-
-
-<br>
-<p align="right" >
-    <a href="https://github.com/earnstein">
-  <img src="https://komarev.com/ghpvc/?username=ElohimCode&label=Profile%20visits&color=5494F0&style=for-the-badge" />
-</a>
-</p>
-
-<p align="left">
-<a "https://x.com/johnvito21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="JB" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/johnbull-vitowanu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="johnbull-vitowanu" height="30" width="40" /></a>
-</p>
- 
