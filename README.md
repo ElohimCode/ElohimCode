@@ -37,4 +37,20 @@ Besides developing, I also run a [Youtube Channel](https://www.youtube.com/chann
 ![Johnbull's Github Stats](https://github-readme-stats.vercel.app/api?username=ElohimCode&theme=dark&show_icons=true)
 
 
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ElohimCode&show_icons=true&locale=en&layout=compact" alt="ElohimCode" /></p>
+
+
+
+<br>
+<p align="right" >
+    <a href="https://github.com/earnstein">
+  <img src="https://komarev.com/ghpvc/?username=ElohimCode&label=Profile%20visits&color=5494F0&style=for-the-badge" />
+</a>
+</p>
+
+<p align="left">
+<a "https://x.com/johnvito21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="JB" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/johnbull-vitowanu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="johnbull-vitowanu" height="30" width="40" /></a>
+</p>
  
